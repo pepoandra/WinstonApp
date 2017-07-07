@@ -7,6 +7,13 @@ The servers add their starting money, their total sales and the total alcohol sa
 Then, the program calculates the total in card transactions, and based on that it calculates how much money should be deposited to complete the cash.
 
 
+
+### Future features to be added: 
+-Scan credit card slips with the camera
+-Calculate average sales & tips based on past nights. 
+
+
+
 ### Screenshots
 
 ![main](/img/main_info.png)
@@ -16,8 +23,3 @@ Then, the program calculates the total in card transactions, and based on that i
 ![edit_cards](/img/edit_cards.png)
 
 ![edit_cards](/img/edit_cards_2.png)
-
-
-### Future features to be added: 
--Scan credit card slips with the camera
--Calculate average sales & tips based on past nights. 
