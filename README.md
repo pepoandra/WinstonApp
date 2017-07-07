@@ -1,4 +1,4 @@
-## WinstonApp
+# WinstonApp
 
 This simple application is meant to help bartenders and waiters of Sir Winston Churchill Pub Complexe to cash-out at the end of the nights.
 
@@ -9,5 +9,5 @@ Then, the program calculates the total in card transactions, and based on that i
 
 
 ## Future features to be added: 
-# Scan credit card slips with the camera
-# Calculate average sales & tips based on past nights. 
+### Scan credit card slips with the camera
+### Calculate average sales & tips based on past nights. 
