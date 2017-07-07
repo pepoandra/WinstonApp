@@ -11,11 +11,11 @@ Then, the program calculates the total in card transactions, and based on that i
 
 ![main](/img/main_info.png)
 
-![report](/img/report.png)
-
-![cards](/img/cards.png)
+![report](/img/reports_1.png)
 
 ![edit_cards](/img/edit_cards.png)
+
+![edit_cards](/img/edit_cards_2.png)
 
 
 ### Future features to be added: 
