@@ -8,6 +8,6 @@ Then, the program calculates the total in card transactions, and based on that i
 
 
 
-## Future features to be added: 
-### Scan credit card slips with the camera
-### Calculate average sales & tips based on past nights. 
+### Future features to be added: 
+#### Scan credit card slips with the camera
+#### Calculate average sales & tips based on past nights. 
